@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EnglishVocabularyBook</string>
+    <string name="home">Menü</string>
+    <string name="insert">Ekle</string>
+    <string name="practice">Pratik Yap</string>
+    <string name="search">Ara…</string>
+    <string name="words">kelime</string>
+    <string name="word">"Kelime:"</string>
+    <string name="english">İngilizce:</string>
+    <string name="turkish">Türkçe:</string>
+    <string name="sentence">Cümle:</string>
+    <string name="save">Kaydet</string>
+    <string name="saved">Kaydedildi</string>
+    <string name="error_enter_word">Lütfen kelime giriniz!</string>
+    <string name="give_permission">İzin Ver</string>
+    <string name="permission_needed_for_gallery">Galeriye erişim için izin gerkeli</string>
+    <string name="permission_needed">İzin gerekli!</string>
+    <string name="deleted">Silindi</string>
+    <string name="next_word">Sonraki Kelime</string>
+    <string name="update">Güncelle</string>
+    <string name="updated">Güncellendi</string>
+    <string name="select_image">Resim Seç</string>
+    <string name="or">ya da</string>
+    <string name="gallery">Galeri</string>
+    <string name="internet">İnternet</string>
+</resources>

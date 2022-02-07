@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">EnglishVocabularyBook</string>
+    <string name="home">Home</string>
+    <string name="insert">Insert</string>
+    <string name="practice">Practice</string>
+    <string name="search">Search…</string>
+    <string name="words">words</string>
+    <string name="word">Word:</string>
+    <string name="english">English:</string>
+    <string name="turkish">Turkish:</string>
+    <string name="sentence">Sentence:</string>
+    <string name="save">Save</string>
+    <string name="saved">Saved</string>
+    <string name="error_enter_word">Please enter the word!</string>
+    <string name="give_permission">Give Permission</string>
+    <string name="permission_needed_for_gallery">Permission needed for gallery</string>
+    <string name="permission_needed">Permission needed!</string>
+    <string name="deleted">Deleted</string>
+    <string name="next_word">Next Word</string>
+    <string name="update">Update</string>
+    <string name="updated">Updated</string>
+    <string name="select_image">Select Image</string>
+    <string name="or">or</string>
+    <string name="gallery">Gallery</string>
+    <string name="internet">Internet</string>
+</resources>

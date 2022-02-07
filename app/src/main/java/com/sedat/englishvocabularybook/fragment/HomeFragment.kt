@@ -85,11 +85,6 @@ class HomeFragment: Fragment() {
     }
 
     private fun observe(){
-        /*lifecycle.coroutineScope.launch {
-            viewModel.getWords().collectLatest {
-                homeAdapter.words = it
-            }
-        }*/
         viewModel.wordList.observe(viewLifecycleOwner, androidx.lifecycle.Observer {
             it?.let {
                 homeAdapter.words = it

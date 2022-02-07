@@ -8,7 +8,7 @@ import retrofit2.http.Query
 
 interface ImageApi {
 
-    //https://pixabay.com/api/?key=20163473-66b58972a16e9883f1164c944&q=yellow
+    //https://pixabay.com/api/?key=api_key&q=yellow
     @GET("/api/")
     fun SearchImage(
             @Query("q") query: String,

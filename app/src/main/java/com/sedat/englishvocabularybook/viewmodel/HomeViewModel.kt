@@ -24,7 +24,7 @@ class HomeViewModel @Inject constructor(
     private val words = MutableLiveData<List<Word>>()
     val wordList: LiveData<List<Word>>
         get() = words
-    fun getWords() {  //: Flow<List<Word>> = repository.getWords()
+    fun getWords() {
         launch {
             val words_ = repository.getWords()
             words_.collectLatest {
